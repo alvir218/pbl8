@@ -1,0 +1,2 @@
+# PBL8 2022/1
+Trabalho apresentado para obtenção parcial de nota sob a metodologia Project Based Learning - PBL da disciplina de Sistemas Embarcados no curso de Engenharia da Computação do Centro Universitário Internacional - UNINTER, sob orientação do Mestre [Guilherme Ditzel Patriota](https://github.com/guipatriota) desenvolvido pelos bacharelandos [Adriana Dahmer](https://github.com/dricadahmer) e [Allan Stuart Virmond](https://github.com/alvir218/).
